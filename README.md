@@ -2,11 +2,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://landing-page-003.web.app">
+    <a href="https://landing-page2-003.web.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/hasanaimroatun/wpu-landingPage">
+    <a href="https://github.com/hasanaimroatun/wpu-landingPage2">
       Solution
     </a>
   </h3>
@@ -27,7 +27,7 @@
 
 ![screenshot](https://github.com/hasanaimroatun/wpu-landingPage2/blob/master/pic/2022-10-11.png)
 
-You can see my demo on . I have have interest in web development since a few months ago. I have learned css, html, javascript, react, boostrap, and sass from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
+You can see my demo on https://landing-page2-003.web.app. I have have interest in web development since a few months ago. I have learned css, html, javascript, react, boostrap, and sass from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
 
 ### Built With
 
