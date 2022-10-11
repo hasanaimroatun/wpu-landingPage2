@@ -25,7 +25,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/hasanaimroatun/wpu-landingPage/blob/master/pic/2022-10-04.png)
+![screenshot](https://github.com/hasanaimroatun/wpu-landingPage2/blob/master/pic/2022-10-11.png)
 
 You can see my demo on . I have have interest in web development since a few months ago. I have learned css, html, javascript, react, boostrap, and sass from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
 
